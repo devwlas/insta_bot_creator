@@ -1,1 +1,1 @@
-# insta_bot_creator
+Bot de criador de conta automática do Instagram
